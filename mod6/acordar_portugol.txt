@@ -1,0 +1,8 @@
+INICIO
+	1.Abrir o olho;
+	2.Levantar da cama;
+	3.Abrir janelas;
+	4.Arrumar cama;
+	5.Café da manhã();
+	6.Escovar dentes();
+FIM
