@@ -66,3 +66,14 @@ Criei depois os métodos get e set dos meus atributos privates("contemplando a f
 
 Este é fim da primeira parte.
 
+<b> 2.2 - Finaliza classe Account </b>
+
+Na imagem abaixo temos a finalização da classe Account
+
+<img src="prints/03.png">
+
+A primeira coisa que percebemos no print que adicionamos 2 métodos, inicialmente pedidos, no desenho da classe. Um método para depósito e outro para retirada(com uma taxa de $5.00)
+
+Outra pequena mudança feita , foi no segundo construtor, no qual ao invés de passar diretamente o valor de balance , chamamos a função deposito. Isso melhora o código, pois se um dia as regras de depósito mudarem, só iremos mudar a função depósito.
+
+Este é fim da segunda parte.
