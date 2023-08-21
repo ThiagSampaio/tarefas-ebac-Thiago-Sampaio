@@ -77,3 +77,15 @@ A primeira coisa que percebemos no print que adicionamos 2 métodos, inicialment
 Outra pequena mudança feita , foi no segundo construtor, no qual ao invés de passar diretamente o valor de balance , chamamos a função deposito. Isso melhora o código, pois se um dia as regras de depósito mudarem, só iremos mudar a função depósito.
 
 Este é fim da segunda parte.
+
+<b> 2.3 - Programa principal - Entry point </b>
+
+Na imagem abaixo temos a finalização do programa principal.
+
+<img src="prints/04.png">
+
+Iniciamos importante os pcts que iremos utilizar, Scanner(para entrada de dados) / Locale(para uso de "."). Importamos também do pacotes entities a classe Account.
+
+Temos dentro da classe a config de Locale e a inicialização do objeto Scanner(para ler a entrada do usuário)
+
+No restante do programa temos o seguir natural do que é pedido como saída pelo exercício. Cada caixa representa um bloco específico do programa. O 2 bloco dentro da classe pega todas as infos sobre a conta e titular . Depois temos um controle de fluxo para vermos se possui depósito inicial ou não. O restante estamos printando os valores, ao final fazendo um depósito e uma retirada. 
