@@ -23,19 +23,30 @@ Você deve fazer um programa que realize o cadastro de uma conta, dando opção 
 <b>1.1.2 Comportamento esperado do programa final</b>
 
 Enter account number: <b>8532</b>
+
 Enter account holder: <b>Alex Green</b>
+
 Is there an initial deposit (y/n)? <b>y</b>
+
 Enter initial deposit value: <b> 500.00 </b>
 
+
 Account data:
+
 Account 8532, Holder: Alex Green, Balance : $ 500.00
 
+
 Enter a deposit value: <b>200.00</b>
+
 Updated account data:
+
 Account 8532, Holder: Alex Green, Balance : $ 700.00
 
+
 Enter a withdraw value: <b>300.00</b>
+
 Updated account data:
+
 Account 8532, Holder: Alex Green, Balance : $ 395.00
 
 
