@@ -22,7 +22,7 @@ Abaixo a tabela de Wrappes Classes:
 
 ## Resposta Exercício.
 
-[Resposta](https://github.com/ThiagSampaio/Java/tree/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_9/src)
+[Resposta](https://github.com/ThiagSampaio/tarefas-ebac-Thiago-Sampaio/blob/main/mod9/src/application/Program.java)
 
 Abaixo o print da Saída:
 
