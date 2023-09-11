@@ -18,7 +18,7 @@ Uso comum: campos de entidades em sistemas de informação, pois tipos referênc
 
 Abaixo a tabela de Wrappes Classes:
 
-<img src="prints/01.png">
+<img src="prints/1.png">
 
 ## Resposta Exercício.
 
@@ -26,4 +26,4 @@ Abaixo a tabela de Wrappes Classes:
 
 Abaixo o print da Saída:
 
-<img src="prints/02.png">
+<img src="prints/2.png">
