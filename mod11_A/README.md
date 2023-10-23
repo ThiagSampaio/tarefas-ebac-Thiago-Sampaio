@@ -7,8 +7,6 @@ Abaixo o print da Saída:
 
 ## Resposta Exercício.
 
-[Resposta](https://github.com/ThiagSampaio/tarefas-ebac-Thiago-Sampaio/blob/main/mod9/src/application/Program.java)
+[Resposta](https://github.com/ThiagSampaio/tarefas-ebac-Thiago-Sampaio/blob/main/mod11_A/src/application/Program.java)
 
-Abaixo o print da Saída:
 
-<img src="prints/2.png">
