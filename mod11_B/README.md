@@ -3,6 +3,6 @@
 
 ## Resposta Exercício.
 
-[Resposta](https://github.com/ThiagSampaio/tarefas-ebac-Thiago-Sampaio/blob/main/mod11_A/src/application/Program.java)
+[Resposta](https://github.com/ThiagSampaio/tarefas-ebac-Thiago-Sampaio/blob/main/mod11_B/src/application/Program.java)
 
 
