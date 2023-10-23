@@ -1,5 +1,6 @@
 package application;
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Program {
 
@@ -18,6 +19,7 @@ public class Program {
 			else {
 			 listaNomes = listaNomes.replaceAll("\\s", "");
 			 String[]nomes = listaNomes.split(",");
+			 Arrays.sort(nomes);
 			 for(int i=0;i<nomes.length;i++) {
 				 System.out.println(nomes[i]);
 			 }
